@@ -1,4 +1,6 @@
-# SAE Web : Site WEB de l'IUT 
+# Site WEB de l'IUT 
+BUT Info - Semestre 1 - SAE Web
+
 Il s’agit ici de réaliser un site web de 3 à 4 pages, présentant des informations sur le B.U.T pour le département informatique de l'IUT site Villeurbanne. Pour le recueil des besoins, avec l’aide des enseignants en Techniques de Communication, vous allez élaborer un questionnaire permettant d’identifier les différents besoins des utilisateurs cibles :  futur-e-s  candidat-e-s,  ainsi  que  toute  personne  qui  souhaiterait  s'informer  sur  la formation du B.U.T en général, et son fonctionnement au département. 
 
 - MODALITES
@@ -32,8 +34,7 @@ Il s’agit ici de réaliser un site web de 3 à 4 pages, présentant des inform
  	- Responsive     /30 
  	- Accessibilité     /10 
  	- Liens internes / Liens externes    /10 
- 	- Lisibilitée du code : /10
- 	- Mise en production sur le serveur de l'IUT ou via la forge sur le serveur de Lyon 1  /5
- 	- Utilisation de git et rendu sur la forge de Lyon 1      /5
+ 	- Lisibilitée du code     /10
+ 	- Rendu sur GitLab     /10
 
 Note sur 200 points ramenée sur /20
